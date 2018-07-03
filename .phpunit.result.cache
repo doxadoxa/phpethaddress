@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":265:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:5:{s:24:"testAddressObjectIsRight";d:0.047;s:21:"testPrivateKeyNotNull";d:0.023;s:20:"testPublicKeyNotNull";d:0.025;s:42:"testAddressObjectIsRightOnPrivateKeySetted";d:0.027;s:34:"testAddressObjectHasCorrectAddress";d:0.026;}}}

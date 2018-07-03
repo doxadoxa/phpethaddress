@@ -1,0 +1,26 @@
+{
+    "name": "doxadoxa/phpethaddress",
+    "description": "Generating Ethereum address object",
+    "type": "library",
+    "require": {
+        "php" : "^7.2",
+        "kornrunner/keccak": "dev-master",
+        "mdanter/ecc": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taras Dovgal",
+            "email": "td@hrom.fund"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4" : {
+            "doxadoxa\\phpethaddress\\": "src"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
