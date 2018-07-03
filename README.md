@@ -6,13 +6,13 @@ Dependencies:
 * phpecc
 * keccak
 
-##Getting started
+## Getting started
 You can install package via composer:
 ```bash
 composer require doxadoxa/phpethaddress
 ```
 
-##How to use
+## How to use
 To generate address with random private key.
 ```php
 $address = EthereumAddressGenerator::generate();
@@ -29,7 +29,7 @@ $address->privateKey();
 $address->publicKey();
 ```
 
-##Tests
+## Tests
 To run tests use:
 ```bash
 ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
