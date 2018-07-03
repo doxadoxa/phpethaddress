@@ -2,6 +2,7 @@
     "name": "doxadoxa/phpethaddress",
     "description": "Generating Ethereum address object",
     "type": "library",
+    "version": "0.1.0",
     "require": {
         "php" : "^7.2",
         "kornrunner/keccak": "dev-master",
